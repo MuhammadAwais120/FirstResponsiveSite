@@ -1,0 +1,31 @@
+/* .on_hover{
+    height: 213px;
+    width: 255px;
+    position: absolute;
+    z-index: -1;
+    
+    } */
+    
+    
+    
+    .card_container .col-4 .card:hover {
+        background-color: rgba(0,0,0,0.6);
+        color: #fff;
+       cursor:pointer;
+        color: white;
+        height: 340px;
+        width: 348px;
+        /* height: ;
+        width: 100%; */
+        /* opacity: 0.5; */
+        z-index: 1 !important;
+      }
+      .card{
+        width: 348px;
+        height: 340px;
+        margin: 0px 0px 35px;
+        padding: 0px 35px;
+        border-radius: 0%;
+      }
+      
+      /* background-color: #a1ce55; */
